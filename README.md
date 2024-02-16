@@ -2,8 +2,8 @@
 
 ## __this is a dummy repo__<br>
 things that i like to do
-* eat
+* i dont wanna be crippled and cracked
 * sleep
 * basketball
 * listening to Radiohead
-* pretend that iam Liam Gallagher
+* i used to fly like peterpan
