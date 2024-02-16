@@ -1,5 +1,6 @@
-# Branch 2<br>
+# Branch Merged<br>
 
-this is a different view
+conflict is resolved
 
-im testing on merging the branches
+branch is merged
+
