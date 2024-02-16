@@ -1,6 +1,1 @@
-# Branch Merged<br>
-
-conflict is resolved
-
-branch is merged
-
+# latihan merge dengan branch 1
