@@ -1,9 +1,8 @@
-# dummy_repo
-
-## __this is a dummy repo__<br>
-things that i like to do
-* i dont wanna be crippled and cracked
-* sleep
-* basketball
-* listening to Radiohead
-* i used to fly like peterpan
+## __this is a different repo__<br>
+eating with your mouth full
+* hey
+* ho
+* lets go
+* general
+* tsao
+* chicken
