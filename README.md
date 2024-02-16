@@ -1,7 +1,5 @@
-# Branch 2
+# Branch 2<br>
 
-## __this is a branch 2__<br>
-* 5
-* 6
-* 7
-* 8
+this is a different view
+
+im testing on merging the branches
