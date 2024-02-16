@@ -1,9 +1,10 @@
-# dummy_repo
+# Really?
 
-## __this is a dummy repo__<br>
-things that i like to do
-* eat
-* sleep
-* basketball
-* listening to Radiohead
-* pretend that iam Liam Gallagher
+## __this is a different repo__<br>
+eating with your mouth full
+* hey
+* ho
+* lets go
+* general
+* tsao
+* chicken
